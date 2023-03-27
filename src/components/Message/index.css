@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.message_card {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 10px;
+  height: 60vh;
+  width: 40vw;
+}
+.description {
+  font-size: 30px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #ffffff;
+  text-align: center;
+}
